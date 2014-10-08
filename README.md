@@ -4,7 +4,8 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+To install the DB2 drivers to your local Maven repository, run:
+4.18.60
 
 ## License
 

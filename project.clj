@@ -7,4 +7,5 @@
                  [org.clojure/java.jdbc "0.3.5"]
                  [com.ibm.db2.jcc/db2jcc4 "4.18.60"]
                  [com.ibm.db2.jcc/db2jcc_license_cu "1.0"]]
-  :main joy.core)
+  :main joy.core
+  :aot [joy.core])

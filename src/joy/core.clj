@@ -1,5 +1,6 @@
-(ns joy.core)
-(require '[clojure.java.jdbc :as j])
+(ns joy.core
+  (require [clojure.java.jdbc :as j])
+  (:gen-class))
 
 (defn -main 
   "I don't do a whole lot."
